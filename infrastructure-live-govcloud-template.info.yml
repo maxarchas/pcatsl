@@ -1,0 +1,10 @@
+data_classification:
+  - company_proprietary
+
+
+poc:
+  - name: Nate Thompson
+    email: nate.thompson@maxar.com
+  - name: Tim Fiez
+    email: tim.fiez@maxar.com
+  - Slack Channel: terraform-cop
